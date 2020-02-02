@@ -1,0 +1,9 @@
+
+  1. Add single line comment for 'declare variables'
+  2. Declare and initialize variables as listed in instructions
+  3. Add single line comment for 'input'
+  4. Ask user for input using valid input library.
+  5. For number2 && number4 inputs, check != 0
+  6. Add single line comment for 'process'
+  7. perform calculations and assignements as listed in instructions
+  8. Output descriptive messages to the user with calculated values. 
