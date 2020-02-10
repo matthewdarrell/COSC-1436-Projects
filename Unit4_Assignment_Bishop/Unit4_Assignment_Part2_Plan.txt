@@ -1,0 +1,11 @@
+
+  1. Add argument char array and count to the main function parameters to allow for command line arguments
+  2. Convert char[] arg to int type and use as max value in for loop.
+  3. Write logic to cout all numbers from 1 to the input value with ordinal postfixes.
+    a. if a number is between the range 10-19, the postfix should be "th"
+    b. if the modulus of the number and 10 is 1, the postfix should be "rst"
+    c. if the modulus of the number and 10 is 2, the postfix should be "nd"
+    d. if the modulus of the number and 10 is 3, the postfix should be "rd"
+    e. else the postfix should be "th"
+  4. print each number on its own line with "Hello" appended. 
+   

@@ -1,0 +1,9 @@
+
+  1. Create variable to store user input and to act as comparison condition for while loop.
+  2. Create variables to store the calculation values preformed on user input. 
+  3. Create while loop with exit condition: user input != -1
+  4. Ask user to give a value to be used in calculations.
+  5. Use double input validator to get value.
+  6. Perform mathmatical calculations and save results to previously made variables. 
+  7. Output decriptive messages to display results of the calculations. 
+  8. On exit, print message with number of numbers processed, and say goodbye.
