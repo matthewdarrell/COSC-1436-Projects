@@ -1,0 +1,6 @@
+
+  1. Start with Dr. T's hint repl. 
+  2. Add extra lines in main() for the people and datasets.
+  3. Copy toupper for loop to main() and edit for part 2.
+  4. Download interger to words file.
+  5. Add line to cout calling the EnglishNumber function using the number parameter.
