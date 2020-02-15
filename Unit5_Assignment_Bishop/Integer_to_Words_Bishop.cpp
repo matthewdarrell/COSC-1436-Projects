@@ -119,7 +119,7 @@ int main()
 
           //It is now safe to perform calculations on the number 
           //It has been verified as a valid number
-         cout << "\The Number you entered is: " <<  number << endl;
+         cout << "\nThe Number you entered is: " <<  number << endl;
          cout << "Converted, your number is: ";
          cout << EnglishNumber(number);
          cout << endl;
