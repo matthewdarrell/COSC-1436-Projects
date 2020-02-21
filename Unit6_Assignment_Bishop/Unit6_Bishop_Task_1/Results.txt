@@ -1,0 +1,47 @@
+
+  Bubble Sort ASC.
+    Start: 3.8e-05
+    End: 1.84467e+13
+
+    Start: 3.6e-05
+    End: 1.84467e+13
+
+    Start: 4.1e-05
+    End: 1.84467e+13
+
+  Bubble Sort DESC.
+    Start: 3.6e-05
+    End: 0.013004
+    
+    Start: 5.1e-05
+    End: 0.013967
+
+    Start: 5e-05
+    End: 0.014195
+
+  Sort Built-in ASC.
+    Start: 3.8e-05
+    End: 0.000818
+
+    Start: 5.1e-05
+    End: 0.001089
+
+    Start: 3.7e-05
+    End: 0.000823
+
+  Sort Built-in DESC.
+    Start: 3.7e-05
+    End: 0.000855
+
+    Start: 5.1e-05
+    End: 0.001063
+
+    Start: 5.2e-05
+    End: 0.001128
+
+
+    The Bubble sort ASC took the longs by a lot, 
+    The Bubble sort DESC took a lot less time that the ASC, however it is probably because the list was easier sorted that way.
+
+    The sort function was much faster than both Bubble sorts by a factor of 100+
+    The sort funciton DESC was faster than the Bubble sort by a factor of 10+

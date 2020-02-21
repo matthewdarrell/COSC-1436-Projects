@@ -1,0 +1,13 @@
+
+  1. create bool sorted init as false;
+  2. create while loop with condition !sorted
+  3. set sorted to true
+  3. create for loop to cycle through all elements of array
+  4. compare array[i] and array[i+1]
+  5. if compare is true, swap elements
+    a. save array[i] to new variable
+    b. assign array[i] to array[i+1]
+    c. assign array[i+1] to save variable
+    d. set sorted to false
+  6. else it will exit loop with sorted list
+  
